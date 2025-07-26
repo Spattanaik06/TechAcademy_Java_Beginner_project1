@@ -1,4 +1,4 @@
-package day5;
+package day6;
 
 @SuppressWarnings("serial")
 public class NegetiveNumberException extends Exception {
