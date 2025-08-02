@@ -1,4 +1,4 @@
-package techAcademy2;
+package day12;
 
 public class User 
 {

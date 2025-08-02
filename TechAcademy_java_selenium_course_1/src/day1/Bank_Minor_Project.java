@@ -1,4 +1,4 @@
-package techacademy;
+package day1;
 
 import java.util.Scanner;
 
